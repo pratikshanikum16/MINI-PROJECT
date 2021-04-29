@@ -1,1 +1,1 @@
-# image_classification-using-SVM
+MINI PROJECT
